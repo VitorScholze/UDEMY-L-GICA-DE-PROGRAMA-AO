@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+C:\Users\User\OneDrive\Documentos\Programaçao Vitor\UDEMY LÓGICA DE PROGRAMAÇAO\Java\.metadata\.plugins\org.eclipse.jdt.core
+864820911.index
+1865797976.index
+2498098298.index

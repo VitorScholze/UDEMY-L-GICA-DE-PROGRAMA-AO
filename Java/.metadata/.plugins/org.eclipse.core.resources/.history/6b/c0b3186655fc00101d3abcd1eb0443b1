@@ -1,0 +1,33 @@
+package J;
+
+import jdk.internal.org.jline.terminal.TerminalBuilder.SystemOutput;
+
+public class Main {
+
+	public static void main(String[] args) {
+		
+		int idade;
+		double salario, altura;
+		char sexo;
+		String nome;
+		
+		
+		idade= 20;
+		salario= 5800.5;
+		altura= 1.63;
+		sexo= 'F';
+		nome= "Maria Silva";
+		
+		
+		System.out.println("IDADE: " + idade);
+		System.out.println("SALARIO:" + String.format("%.2lf", salario));
+		System.out.println("ALTURA: " + String.format("%.2lf", altura));
+		System.out.println("SEXO :" + sexo);
+		System.out.println("NOME :" + nome);
+		
+		
+		
+
+	}
+
+}
