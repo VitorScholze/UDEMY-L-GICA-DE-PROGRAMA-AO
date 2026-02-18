@@ -1,0 +1,14 @@
+C:\Users\User\OneDrive\Documentos\Programaçao Vitor\UDEMY LÓGICA DE PROGRAMAÇAO\C SHARP\ExercicioSomaImpares\ExercicioSomaImpares\bin\Debug\net10.0\ExercicioSomaImpares.exe
+C:\Users\User\OneDrive\Documentos\Programaçao Vitor\UDEMY LÓGICA DE PROGRAMAÇAO\C SHARP\ExercicioSomaImpares\ExercicioSomaImpares\bin\Debug\net10.0\ExercicioSomaImpares.deps.json
+C:\Users\User\OneDrive\Documentos\Programaçao Vitor\UDEMY LÓGICA DE PROGRAMAÇAO\C SHARP\ExercicioSomaImpares\ExercicioSomaImpares\bin\Debug\net10.0\ExercicioSomaImpares.runtimeconfig.json
+C:\Users\User\OneDrive\Documentos\Programaçao Vitor\UDEMY LÓGICA DE PROGRAMAÇAO\C SHARP\ExercicioSomaImpares\ExercicioSomaImpares\bin\Debug\net10.0\ExercicioSomaImpares.dll
+C:\Users\User\OneDrive\Documentos\Programaçao Vitor\UDEMY LÓGICA DE PROGRAMAÇAO\C SHARP\ExercicioSomaImpares\ExercicioSomaImpares\bin\Debug\net10.0\ExercicioSomaImpares.pdb
+C:\Users\User\OneDrive\Documentos\Programaçao Vitor\UDEMY LÓGICA DE PROGRAMAÇAO\C SHARP\ExercicioSomaImpares\ExercicioSomaImpares\obj\Debug\net10.0\ExercicioSomaImpares.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Documentos\Programaçao Vitor\UDEMY LÓGICA DE PROGRAMAÇAO\C SHARP\ExercicioSomaImpares\ExercicioSomaImpares\obj\Debug\net10.0\ExercicioSomaImpares.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Documentos\Programaçao Vitor\UDEMY LÓGICA DE PROGRAMAÇAO\C SHARP\ExercicioSomaImpares\ExercicioSomaImpares\obj\Debug\net10.0\ExercicioSomaImpares.AssemblyInfo.cs
+C:\Users\User\OneDrive\Documentos\Programaçao Vitor\UDEMY LÓGICA DE PROGRAMAÇAO\C SHARP\ExercicioSomaImpares\ExercicioSomaImpares\obj\Debug\net10.0\ExercicioSomaImpares.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Documentos\Programaçao Vitor\UDEMY LÓGICA DE PROGRAMAÇAO\C SHARP\ExercicioSomaImpares\ExercicioSomaImpares\obj\Debug\net10.0\ExercicioSomaImpares.dll
+C:\Users\User\OneDrive\Documentos\Programaçao Vitor\UDEMY LÓGICA DE PROGRAMAÇAO\C SHARP\ExercicioSomaImpares\ExercicioSomaImpares\obj\Debug\net10.0\refint\ExercicioSomaImpares.dll
+C:\Users\User\OneDrive\Documentos\Programaçao Vitor\UDEMY LÓGICA DE PROGRAMAÇAO\C SHARP\ExercicioSomaImpares\ExercicioSomaImpares\obj\Debug\net10.0\ExercicioSomaImpares.pdb
+C:\Users\User\OneDrive\Documentos\Programaçao Vitor\UDEMY LÓGICA DE PROGRAMAÇAO\C SHARP\ExercicioSomaImpares\ExercicioSomaImpares\obj\Debug\net10.0\ExercicioSomaImpares.genruntimeconfig.cache
+C:\Users\User\OneDrive\Documentos\Programaçao Vitor\UDEMY LÓGICA DE PROGRAMAÇAO\C SHARP\ExercicioSomaImpares\ExercicioSomaImpares\obj\Debug\net10.0\ref\ExercicioSomaImpares.dll

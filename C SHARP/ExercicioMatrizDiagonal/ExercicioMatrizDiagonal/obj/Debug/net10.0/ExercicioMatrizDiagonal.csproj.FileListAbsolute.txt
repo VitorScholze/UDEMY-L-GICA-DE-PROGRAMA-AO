@@ -1,0 +1,14 @@
+C:\Users\User\OneDrive\Documentos\Programaçao Vitor\UDEMY LÓGICA DE PROGRAMAÇAO\C SHARP\ExercicioMatrizDiagonal\ExercicioMatrizDiagonal\bin\Debug\net10.0\ExercicioMatrizDiagonal.exe
+C:\Users\User\OneDrive\Documentos\Programaçao Vitor\UDEMY LÓGICA DE PROGRAMAÇAO\C SHARP\ExercicioMatrizDiagonal\ExercicioMatrizDiagonal\bin\Debug\net10.0\ExercicioMatrizDiagonal.deps.json
+C:\Users\User\OneDrive\Documentos\Programaçao Vitor\UDEMY LÓGICA DE PROGRAMAÇAO\C SHARP\ExercicioMatrizDiagonal\ExercicioMatrizDiagonal\bin\Debug\net10.0\ExercicioMatrizDiagonal.runtimeconfig.json
+C:\Users\User\OneDrive\Documentos\Programaçao Vitor\UDEMY LÓGICA DE PROGRAMAÇAO\C SHARP\ExercicioMatrizDiagonal\ExercicioMatrizDiagonal\bin\Debug\net10.0\ExercicioMatrizDiagonal.dll
+C:\Users\User\OneDrive\Documentos\Programaçao Vitor\UDEMY LÓGICA DE PROGRAMAÇAO\C SHARP\ExercicioMatrizDiagonal\ExercicioMatrizDiagonal\bin\Debug\net10.0\ExercicioMatrizDiagonal.pdb
+C:\Users\User\OneDrive\Documentos\Programaçao Vitor\UDEMY LÓGICA DE PROGRAMAÇAO\C SHARP\ExercicioMatrizDiagonal\ExercicioMatrizDiagonal\obj\Debug\net10.0\ExercicioMatrizDiagonal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Documentos\Programaçao Vitor\UDEMY LÓGICA DE PROGRAMAÇAO\C SHARP\ExercicioMatrizDiagonal\ExercicioMatrizDiagonal\obj\Debug\net10.0\ExercicioMatrizDiagonal.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Documentos\Programaçao Vitor\UDEMY LÓGICA DE PROGRAMAÇAO\C SHARP\ExercicioMatrizDiagonal\ExercicioMatrizDiagonal\obj\Debug\net10.0\ExercicioMatrizDiagonal.AssemblyInfo.cs
+C:\Users\User\OneDrive\Documentos\Programaçao Vitor\UDEMY LÓGICA DE PROGRAMAÇAO\C SHARP\ExercicioMatrizDiagonal\ExercicioMatrizDiagonal\obj\Debug\net10.0\ExercicioMatrizDiagonal.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Documentos\Programaçao Vitor\UDEMY LÓGICA DE PROGRAMAÇAO\C SHARP\ExercicioMatrizDiagonal\ExercicioMatrizDiagonal\obj\Debug\net10.0\ExercicioMatrizDiagonal.dll
+C:\Users\User\OneDrive\Documentos\Programaçao Vitor\UDEMY LÓGICA DE PROGRAMAÇAO\C SHARP\ExercicioMatrizDiagonal\ExercicioMatrizDiagonal\obj\Debug\net10.0\refint\ExercicioMatrizDiagonal.dll
+C:\Users\User\OneDrive\Documentos\Programaçao Vitor\UDEMY LÓGICA DE PROGRAMAÇAO\C SHARP\ExercicioMatrizDiagonal\ExercicioMatrizDiagonal\obj\Debug\net10.0\ExercicioMatrizDiagonal.pdb
+C:\Users\User\OneDrive\Documentos\Programaçao Vitor\UDEMY LÓGICA DE PROGRAMAÇAO\C SHARP\ExercicioMatrizDiagonal\ExercicioMatrizDiagonal\obj\Debug\net10.0\ExercicioMatrizDiagonal.genruntimeconfig.cache
+C:\Users\User\OneDrive\Documentos\Programaçao Vitor\UDEMY LÓGICA DE PROGRAMAÇAO\C SHARP\ExercicioMatrizDiagonal\ExercicioMatrizDiagonal\obj\Debug\net10.0\ref\ExercicioMatrizDiagonal.dll

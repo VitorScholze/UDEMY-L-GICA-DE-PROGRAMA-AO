@@ -1,0 +1,14 @@
+C:\Users\User\OneDrive\Documentos\Programaçao Vitor\UDEMY LÓGICA DE PROGRAMAÇAO\C SHARP\ExercicioCrescente\ExercicioCrescente\bin\Debug\net10.0\ExercicioCrescente.exe
+C:\Users\User\OneDrive\Documentos\Programaçao Vitor\UDEMY LÓGICA DE PROGRAMAÇAO\C SHARP\ExercicioCrescente\ExercicioCrescente\bin\Debug\net10.0\ExercicioCrescente.deps.json
+C:\Users\User\OneDrive\Documentos\Programaçao Vitor\UDEMY LÓGICA DE PROGRAMAÇAO\C SHARP\ExercicioCrescente\ExercicioCrescente\bin\Debug\net10.0\ExercicioCrescente.runtimeconfig.json
+C:\Users\User\OneDrive\Documentos\Programaçao Vitor\UDEMY LÓGICA DE PROGRAMAÇAO\C SHARP\ExercicioCrescente\ExercicioCrescente\bin\Debug\net10.0\ExercicioCrescente.dll
+C:\Users\User\OneDrive\Documentos\Programaçao Vitor\UDEMY LÓGICA DE PROGRAMAÇAO\C SHARP\ExercicioCrescente\ExercicioCrescente\bin\Debug\net10.0\ExercicioCrescente.pdb
+C:\Users\User\OneDrive\Documentos\Programaçao Vitor\UDEMY LÓGICA DE PROGRAMAÇAO\C SHARP\ExercicioCrescente\ExercicioCrescente\obj\Debug\net10.0\ExercicioCrescente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Documentos\Programaçao Vitor\UDEMY LÓGICA DE PROGRAMAÇAO\C SHARP\ExercicioCrescente\ExercicioCrescente\obj\Debug\net10.0\ExercicioCrescente.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Documentos\Programaçao Vitor\UDEMY LÓGICA DE PROGRAMAÇAO\C SHARP\ExercicioCrescente\ExercicioCrescente\obj\Debug\net10.0\ExercicioCrescente.AssemblyInfo.cs
+C:\Users\User\OneDrive\Documentos\Programaçao Vitor\UDEMY LÓGICA DE PROGRAMAÇAO\C SHARP\ExercicioCrescente\ExercicioCrescente\obj\Debug\net10.0\ExercicioCrescente.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Documentos\Programaçao Vitor\UDEMY LÓGICA DE PROGRAMAÇAO\C SHARP\ExercicioCrescente\ExercicioCrescente\obj\Debug\net10.0\ExercicioCrescente.dll
+C:\Users\User\OneDrive\Documentos\Programaçao Vitor\UDEMY LÓGICA DE PROGRAMAÇAO\C SHARP\ExercicioCrescente\ExercicioCrescente\obj\Debug\net10.0\refint\ExercicioCrescente.dll
+C:\Users\User\OneDrive\Documentos\Programaçao Vitor\UDEMY LÓGICA DE PROGRAMAÇAO\C SHARP\ExercicioCrescente\ExercicioCrescente\obj\Debug\net10.0\ExercicioCrescente.pdb
+C:\Users\User\OneDrive\Documentos\Programaçao Vitor\UDEMY LÓGICA DE PROGRAMAÇAO\C SHARP\ExercicioCrescente\ExercicioCrescente\obj\Debug\net10.0\ExercicioCrescente.genruntimeconfig.cache
+C:\Users\User\OneDrive\Documentos\Programaçao Vitor\UDEMY LÓGICA DE PROGRAMAÇAO\C SHARP\ExercicioCrescente\ExercicioCrescente\obj\Debug\net10.0\ref\ExercicioCrescente.dll

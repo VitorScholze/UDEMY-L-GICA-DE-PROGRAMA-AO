@@ -1,0 +1,14 @@
+C:\Users\User\OneDrive\Documentos\Programaçao Vitor\UDEMY LÓGICA DE PROGRAMAÇAO\C SHARP\Problema Retangulo\Problema Retangulo\bin\Debug\net10.0\Problema Retangulo.exe
+C:\Users\User\OneDrive\Documentos\Programaçao Vitor\UDEMY LÓGICA DE PROGRAMAÇAO\C SHARP\Problema Retangulo\Problema Retangulo\bin\Debug\net10.0\Problema Retangulo.deps.json
+C:\Users\User\OneDrive\Documentos\Programaçao Vitor\UDEMY LÓGICA DE PROGRAMAÇAO\C SHARP\Problema Retangulo\Problema Retangulo\bin\Debug\net10.0\Problema Retangulo.runtimeconfig.json
+C:\Users\User\OneDrive\Documentos\Programaçao Vitor\UDEMY LÓGICA DE PROGRAMAÇAO\C SHARP\Problema Retangulo\Problema Retangulo\bin\Debug\net10.0\Problema Retangulo.dll
+C:\Users\User\OneDrive\Documentos\Programaçao Vitor\UDEMY LÓGICA DE PROGRAMAÇAO\C SHARP\Problema Retangulo\Problema Retangulo\bin\Debug\net10.0\Problema Retangulo.pdb
+C:\Users\User\OneDrive\Documentos\Programaçao Vitor\UDEMY LÓGICA DE PROGRAMAÇAO\C SHARP\Problema Retangulo\Problema Retangulo\obj\Debug\net10.0\Problema Retangulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Documentos\Programaçao Vitor\UDEMY LÓGICA DE PROGRAMAÇAO\C SHARP\Problema Retangulo\Problema Retangulo\obj\Debug\net10.0\Problema Retangulo.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Documentos\Programaçao Vitor\UDEMY LÓGICA DE PROGRAMAÇAO\C SHARP\Problema Retangulo\Problema Retangulo\obj\Debug\net10.0\Problema Retangulo.AssemblyInfo.cs
+C:\Users\User\OneDrive\Documentos\Programaçao Vitor\UDEMY LÓGICA DE PROGRAMAÇAO\C SHARP\Problema Retangulo\Problema Retangulo\obj\Debug\net10.0\Problema Retangulo.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Documentos\Programaçao Vitor\UDEMY LÓGICA DE PROGRAMAÇAO\C SHARP\Problema Retangulo\Problema Retangulo\obj\Debug\net10.0\Problema Retangulo.dll
+C:\Users\User\OneDrive\Documentos\Programaçao Vitor\UDEMY LÓGICA DE PROGRAMAÇAO\C SHARP\Problema Retangulo\Problema Retangulo\obj\Debug\net10.0\refint\Problema Retangulo.dll
+C:\Users\User\OneDrive\Documentos\Programaçao Vitor\UDEMY LÓGICA DE PROGRAMAÇAO\C SHARP\Problema Retangulo\Problema Retangulo\obj\Debug\net10.0\Problema Retangulo.pdb
+C:\Users\User\OneDrive\Documentos\Programaçao Vitor\UDEMY LÓGICA DE PROGRAMAÇAO\C SHARP\Problema Retangulo\Problema Retangulo\obj\Debug\net10.0\Problema Retangulo.genruntimeconfig.cache
+C:\Users\User\OneDrive\Documentos\Programaçao Vitor\UDEMY LÓGICA DE PROGRAMAÇAO\C SHARP\Problema Retangulo\Problema Retangulo\obj\Debug\net10.0\ref\Problema Retangulo.dll

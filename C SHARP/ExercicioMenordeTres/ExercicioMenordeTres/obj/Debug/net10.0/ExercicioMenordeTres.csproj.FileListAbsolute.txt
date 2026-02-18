@@ -1,0 +1,14 @@
+C:\Users\User\OneDrive\Documentos\Programaçao Vitor\UDEMY LÓGICA DE PROGRAMAÇAO\C SHARP\ExercicioMenordeTres\ExercicioMenordeTres\bin\Debug\net10.0\ExercicioMenordeTres.exe
+C:\Users\User\OneDrive\Documentos\Programaçao Vitor\UDEMY LÓGICA DE PROGRAMAÇAO\C SHARP\ExercicioMenordeTres\ExercicioMenordeTres\bin\Debug\net10.0\ExercicioMenordeTres.deps.json
+C:\Users\User\OneDrive\Documentos\Programaçao Vitor\UDEMY LÓGICA DE PROGRAMAÇAO\C SHARP\ExercicioMenordeTres\ExercicioMenordeTres\bin\Debug\net10.0\ExercicioMenordeTres.runtimeconfig.json
+C:\Users\User\OneDrive\Documentos\Programaçao Vitor\UDEMY LÓGICA DE PROGRAMAÇAO\C SHARP\ExercicioMenordeTres\ExercicioMenordeTres\bin\Debug\net10.0\ExercicioMenordeTres.dll
+C:\Users\User\OneDrive\Documentos\Programaçao Vitor\UDEMY LÓGICA DE PROGRAMAÇAO\C SHARP\ExercicioMenordeTres\ExercicioMenordeTres\bin\Debug\net10.0\ExercicioMenordeTres.pdb
+C:\Users\User\OneDrive\Documentos\Programaçao Vitor\UDEMY LÓGICA DE PROGRAMAÇAO\C SHARP\ExercicioMenordeTres\ExercicioMenordeTres\obj\Debug\net10.0\ExercicioMenordeTres.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Documentos\Programaçao Vitor\UDEMY LÓGICA DE PROGRAMAÇAO\C SHARP\ExercicioMenordeTres\ExercicioMenordeTres\obj\Debug\net10.0\ExercicioMenordeTres.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Documentos\Programaçao Vitor\UDEMY LÓGICA DE PROGRAMAÇAO\C SHARP\ExercicioMenordeTres\ExercicioMenordeTres\obj\Debug\net10.0\ExercicioMenordeTres.AssemblyInfo.cs
+C:\Users\User\OneDrive\Documentos\Programaçao Vitor\UDEMY LÓGICA DE PROGRAMAÇAO\C SHARP\ExercicioMenordeTres\ExercicioMenordeTres\obj\Debug\net10.0\ExercicioMenordeTres.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Documentos\Programaçao Vitor\UDEMY LÓGICA DE PROGRAMAÇAO\C SHARP\ExercicioMenordeTres\ExercicioMenordeTres\obj\Debug\net10.0\ExercicioMenordeTres.dll
+C:\Users\User\OneDrive\Documentos\Programaçao Vitor\UDEMY LÓGICA DE PROGRAMAÇAO\C SHARP\ExercicioMenordeTres\ExercicioMenordeTres\obj\Debug\net10.0\refint\ExercicioMenordeTres.dll
+C:\Users\User\OneDrive\Documentos\Programaçao Vitor\UDEMY LÓGICA DE PROGRAMAÇAO\C SHARP\ExercicioMenordeTres\ExercicioMenordeTres\obj\Debug\net10.0\ExercicioMenordeTres.pdb
+C:\Users\User\OneDrive\Documentos\Programaçao Vitor\UDEMY LÓGICA DE PROGRAMAÇAO\C SHARP\ExercicioMenordeTres\ExercicioMenordeTres\obj\Debug\net10.0\ExercicioMenordeTres.genruntimeconfig.cache
+C:\Users\User\OneDrive\Documentos\Programaçao Vitor\UDEMY LÓGICA DE PROGRAMAÇAO\C SHARP\ExercicioMenordeTres\ExercicioMenordeTres\obj\Debug\net10.0\ref\ExercicioMenordeTres.dll

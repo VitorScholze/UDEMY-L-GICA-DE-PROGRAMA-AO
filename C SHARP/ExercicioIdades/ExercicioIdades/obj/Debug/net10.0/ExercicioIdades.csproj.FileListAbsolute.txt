@@ -1,0 +1,14 @@
+C:\Users\User\OneDrive\Documentos\Programaçao Vitor\UDEMY LÓGICA DE PROGRAMAÇAO\C SHARP\ExercicioIdades\ExercicioIdades\bin\Debug\net10.0\ExercicioIdades.exe
+C:\Users\User\OneDrive\Documentos\Programaçao Vitor\UDEMY LÓGICA DE PROGRAMAÇAO\C SHARP\ExercicioIdades\ExercicioIdades\bin\Debug\net10.0\ExercicioIdades.deps.json
+C:\Users\User\OneDrive\Documentos\Programaçao Vitor\UDEMY LÓGICA DE PROGRAMAÇAO\C SHARP\ExercicioIdades\ExercicioIdades\bin\Debug\net10.0\ExercicioIdades.runtimeconfig.json
+C:\Users\User\OneDrive\Documentos\Programaçao Vitor\UDEMY LÓGICA DE PROGRAMAÇAO\C SHARP\ExercicioIdades\ExercicioIdades\bin\Debug\net10.0\ExercicioIdades.dll
+C:\Users\User\OneDrive\Documentos\Programaçao Vitor\UDEMY LÓGICA DE PROGRAMAÇAO\C SHARP\ExercicioIdades\ExercicioIdades\bin\Debug\net10.0\ExercicioIdades.pdb
+C:\Users\User\OneDrive\Documentos\Programaçao Vitor\UDEMY LÓGICA DE PROGRAMAÇAO\C SHARP\ExercicioIdades\ExercicioIdades\obj\Debug\net10.0\ExercicioIdades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Documentos\Programaçao Vitor\UDEMY LÓGICA DE PROGRAMAÇAO\C SHARP\ExercicioIdades\ExercicioIdades\obj\Debug\net10.0\ExercicioIdades.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Documentos\Programaçao Vitor\UDEMY LÓGICA DE PROGRAMAÇAO\C SHARP\ExercicioIdades\ExercicioIdades\obj\Debug\net10.0\ExercicioIdades.AssemblyInfo.cs
+C:\Users\User\OneDrive\Documentos\Programaçao Vitor\UDEMY LÓGICA DE PROGRAMAÇAO\C SHARP\ExercicioIdades\ExercicioIdades\obj\Debug\net10.0\ExercicioIdades.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Documentos\Programaçao Vitor\UDEMY LÓGICA DE PROGRAMAÇAO\C SHARP\ExercicioIdades\ExercicioIdades\obj\Debug\net10.0\ExercicioIdades.dll
+C:\Users\User\OneDrive\Documentos\Programaçao Vitor\UDEMY LÓGICA DE PROGRAMAÇAO\C SHARP\ExercicioIdades\ExercicioIdades\obj\Debug\net10.0\refint\ExercicioIdades.dll
+C:\Users\User\OneDrive\Documentos\Programaçao Vitor\UDEMY LÓGICA DE PROGRAMAÇAO\C SHARP\ExercicioIdades\ExercicioIdades\obj\Debug\net10.0\ExercicioIdades.pdb
+C:\Users\User\OneDrive\Documentos\Programaçao Vitor\UDEMY LÓGICA DE PROGRAMAÇAO\C SHARP\ExercicioIdades\ExercicioIdades\obj\Debug\net10.0\ExercicioIdades.genruntimeconfig.cache
+C:\Users\User\OneDrive\Documentos\Programaçao Vitor\UDEMY LÓGICA DE PROGRAMAÇAO\C SHARP\ExercicioIdades\ExercicioIdades\obj\Debug\net10.0\ref\ExercicioIdades.dll

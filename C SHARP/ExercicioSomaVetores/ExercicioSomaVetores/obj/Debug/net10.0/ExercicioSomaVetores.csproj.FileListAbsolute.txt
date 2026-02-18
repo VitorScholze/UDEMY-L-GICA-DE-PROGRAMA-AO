@@ -1,0 +1,14 @@
+C:\Users\User\OneDrive\Documentos\Programaçao Vitor\UDEMY LÓGICA DE PROGRAMAÇAO\C SHARP\ExercicioSomaVetores\ExercicioSomaVetores\bin\Debug\net10.0\ExercicioSomaVetores.exe
+C:\Users\User\OneDrive\Documentos\Programaçao Vitor\UDEMY LÓGICA DE PROGRAMAÇAO\C SHARP\ExercicioSomaVetores\ExercicioSomaVetores\bin\Debug\net10.0\ExercicioSomaVetores.deps.json
+C:\Users\User\OneDrive\Documentos\Programaçao Vitor\UDEMY LÓGICA DE PROGRAMAÇAO\C SHARP\ExercicioSomaVetores\ExercicioSomaVetores\bin\Debug\net10.0\ExercicioSomaVetores.runtimeconfig.json
+C:\Users\User\OneDrive\Documentos\Programaçao Vitor\UDEMY LÓGICA DE PROGRAMAÇAO\C SHARP\ExercicioSomaVetores\ExercicioSomaVetores\bin\Debug\net10.0\ExercicioSomaVetores.dll
+C:\Users\User\OneDrive\Documentos\Programaçao Vitor\UDEMY LÓGICA DE PROGRAMAÇAO\C SHARP\ExercicioSomaVetores\ExercicioSomaVetores\bin\Debug\net10.0\ExercicioSomaVetores.pdb
+C:\Users\User\OneDrive\Documentos\Programaçao Vitor\UDEMY LÓGICA DE PROGRAMAÇAO\C SHARP\ExercicioSomaVetores\ExercicioSomaVetores\obj\Debug\net10.0\ExercicioSomaVetores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Documentos\Programaçao Vitor\UDEMY LÓGICA DE PROGRAMAÇAO\C SHARP\ExercicioSomaVetores\ExercicioSomaVetores\obj\Debug\net10.0\ExercicioSomaVetores.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Documentos\Programaçao Vitor\UDEMY LÓGICA DE PROGRAMAÇAO\C SHARP\ExercicioSomaVetores\ExercicioSomaVetores\obj\Debug\net10.0\ExercicioSomaVetores.AssemblyInfo.cs
+C:\Users\User\OneDrive\Documentos\Programaçao Vitor\UDEMY LÓGICA DE PROGRAMAÇAO\C SHARP\ExercicioSomaVetores\ExercicioSomaVetores\obj\Debug\net10.0\ExercicioSomaVetores.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Documentos\Programaçao Vitor\UDEMY LÓGICA DE PROGRAMAÇAO\C SHARP\ExercicioSomaVetores\ExercicioSomaVetores\obj\Debug\net10.0\ExercicioSomaVetores.dll
+C:\Users\User\OneDrive\Documentos\Programaçao Vitor\UDEMY LÓGICA DE PROGRAMAÇAO\C SHARP\ExercicioSomaVetores\ExercicioSomaVetores\obj\Debug\net10.0\refint\ExercicioSomaVetores.dll
+C:\Users\User\OneDrive\Documentos\Programaçao Vitor\UDEMY LÓGICA DE PROGRAMAÇAO\C SHARP\ExercicioSomaVetores\ExercicioSomaVetores\obj\Debug\net10.0\ExercicioSomaVetores.pdb
+C:\Users\User\OneDrive\Documentos\Programaçao Vitor\UDEMY LÓGICA DE PROGRAMAÇAO\C SHARP\ExercicioSomaVetores\ExercicioSomaVetores\obj\Debug\net10.0\ExercicioSomaVetores.genruntimeconfig.cache
+C:\Users\User\OneDrive\Documentos\Programaçao Vitor\UDEMY LÓGICA DE PROGRAMAÇAO\C SHARP\ExercicioSomaVetores\ExercicioSomaVetores\obj\Debug\net10.0\ref\ExercicioSomaVetores.dll
